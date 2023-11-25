@@ -278,14 +278,14 @@ public class voiceDetectorController : MonoBehaviour
 
         // "C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/audio_recordings/"
 
-        string FILE_PATH = "C:/Users/student/Documents" + FILENAME + ".wav";
+        string FILE_PATH = "C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/audio_recordings/" + FILENAME + ".wav";
         Debug.Log("filepath: " + FILE_PATH);
         bool correctPath = File.Exists(FILE_PATH);
         string ex = Path.GetExtension(FILE_PATH);
        // string mime = System.Web.MimeMapping.GetMimeMapping(FILE_PATH);
         if (!filenames.Contains(FILENAME) && correctPath && ex == ".wav")
         {
-            if (FILE_PATH != "C:/Users/student/Documents.wav")
+            if (FILE_PATH != "C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/audio_recordings/.wav")
             {
                 client.Predict(FILE_PATH, output =>
                 {
