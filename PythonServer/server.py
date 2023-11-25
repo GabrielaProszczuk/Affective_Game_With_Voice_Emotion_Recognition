@@ -8,7 +8,7 @@ import glob
 import os
 
 
-model = load_model('Emotion_Voice_Detection_Model_with_selected_emotions_141123.h5')
+model = load_model('Emotion_Voice_Detection_Model_with_selected_emotions.h5')
 
 context = zmq.Context()
 socket = context.socket(zmq.REP)
@@ -61,12 +61,7 @@ while True:
         print('Expected emotion: ' + str(expected_emotion) + ', achieved: ' + str(needed_pred))
         print('Detected emotion: ' + all_emotions[ind] + ' with pred: ' + str(max_pred))
 
-
-        #if detected at least a little
-        if(int(needed_pred*100) > 30 and int(needed_pred*100) < 50):
-            pred_to_send = np.array(str(needed_pred+0.3))
-        else:
-            pred_to_send = max_pred_to_send
+        pred_to_send = max_pred_to_send
     except:
         pred_to_send = np.array("0.1000")
     bytes_to_send = pred_to_send.tobytes()
