@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - flower
+  - flowers_moving_background
+  - falling_object
+  - Platform
+  - Bricks
+  - Hazard
+  - NextLevelSign1
+  - EnemyLocal_lvl1
+  - Rotating_S
+  - Rotating_d
+  - characterToCatch
+  - logdrop1
+  - log_drop
+  - logdrop2
+  - logdrop3
+  - logdrop4
+  - logdrop5
+  - logdrop6
+  - startWindow
+  - flowerLVL3
+  - monsterLvl1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tilea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1329880523
+    locked: 0
+  - name: Extra
+    uniqueID: 954334129
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroudTiles
+    uniqueID: 110389387
+    locked: 0
+  - name: Tiles
+    uniqueID: 183780079
+    locked: 0
+  - name: FrontTiles
+    uniqueID: 2871160995
+    locked: 0
+  - name: Player
+    uniqueID: 4082710827
+    locked: 0
+  - name: UI
+    uniqueID: 4205982381
+    locked: 0
+  - name: Camera
+    uniqueID: 307858167
+    locked: 0

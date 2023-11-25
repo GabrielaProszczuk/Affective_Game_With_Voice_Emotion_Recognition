@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: 96c71eeefd827914db6de2ed30122441
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7196403937810680016
+    second: Floating_MediumCut_0
+  - first:
+      213: -2506384666500313430
+    second: Floating_MediumCut_1
+  - first:
+      213: -7662589118300140106
+    second: Floating_MediumCut_2
+  - first:
+      213: -4866555145373129909
+    second: Floating_MediumCut_3
+  - first:
+      213: -7841510204729424618
+    second: Floating_MediumCut_4
+  - first:
+      213: 6955565496354090672
+    second: Floating_MediumCut_5
+  - first:
+      213: 243097973159826244
+    second: Floating_MediumCut_6
+  - first:
+      213: 2446419331038753617
+    second: Floating_MediumCut_7
+  - first:
+      213: 5376614308888136001
+    second: Floating_MediumCut_8
+  - first:
+      213: -9145059591625087080
+    second: Floating_MediumCut_9
+  - first:
+      213: 1782975429676189825
+    second: Floating_MediumCut_10
+  - first:
+      213: -7427452630693615202
+    second: Floating_MediumCut_11
+  - first:
+      213: 4863823180027142891
+    second: Floating_MediumCut_12
+  - first:
+      213: -192489719446862118
+    second: Floating_MediumCut_13
+  - first:
+      213: -3041130711623617850
+    second: Floating_MediumCut_14
+  - first:
+      213: 2906975609317630908
+    second: Floating_MediumCut_15
+  - first:
+      213: -2560789815189877925
+    second: Floating_MediumCut_16
+  - first:
+      213: -5408106659588874214
+    second: Floating_MediumCut_17
+  - first:
+      213: -7016254920991607180
+    second: Floating_MediumCut_18
+  - first:
+      213: 7545585091058638643
+    second: Floating_MediumCut_19
+  - first:
+      213: -2528072041671465473
+    second: Floating_MediumCut_20
+  - first:
+      213: 2290152160400569753
+    second: Floating_MediumCut_21
+  - first:
+      213: 4624245875903760860
+    second: Floating_MediumCut_22
+  - first:
+      213: 386418229745314389
+    second: Floating_MediumCut_23
+  - first:
+      213: -2009577037839082550
+    second: Floating_MediumCut_24
+  - first:
+      213: -5422099142249854922
+    second: Floating_MediumCut_25
+  - first:
+      213: 4404013154539879288
+    second: Floating_MediumCut_26
+  - first:
+      213: 3403089644624718847
+    second: Floating_MediumCut_27
+  - first:
+      213: -1398475941121717035
+    second: Floating_MediumCut_28
+  - first:
+      213: -3798682000214129091
+    second: Floating_MediumCut_29
+  - first:
+      213: 4299169498918116387
+    second: Floating_MediumCut_30
+  - first:
+      213: -2039693948855298814
+    second: Floating_MediumCut_31
+  - first:
+      213: -5467934948146981648
+    second: Floating_MediumCut_32
+  - first:
+      213: 6507978714792597897
+    second: Floating_MediumCut_33
+  - first:
+      213: 1549570875322112864
+    second: Floating_MediumCut_34
+  - first:
+      213: 2952509879591019825
+    second: Floating_MediumCut_35
+  - first:
+      213: -1589725382723775319
+    second: Floating_MediumCut_36
+  - first:
+      213: 5742593920877612359
+    second: Floating_MediumCut_37
+  - first:
+      213: -8974810665719022386
+    second: Floating_MediumCut_38
+  - first:
+      213: 5765564190682389157
+    second: Floating_MediumCut_39
+  - first:
+      213: 6594495190568190705
+    second: Floating_MediumCut_40
+  - first:
+      213: -8760842326231514033
+    second: Floating_MediumCut_41
+  - first:
+      213: 9173346817669518067
+    second: Floating_MediumCut_42
+  - first:
+      213: -4395015286170510107
+    second: Floating_MediumCut_43
+  - first:
+      213: 5440837160480821862
+    second: Floating_MediumCut_44
+  - first:
+      213: -1914667927798017492
+    second: Floating_MediumCut_45
+  - first:
+      213: -4233784438050536697
+    second: Floating_MediumCut_46
+  - first:
+      213: 8688725429682336586
+    second: Floating_MediumCut_47
+  - first:
+      213: 2935281315223446476
+    second: Floating_MediumCut_48
+  - first:
+      213: 8954052347745797359
+    second: Floating_MediumCut_49
+  - first:
+      213: 6367490848716669301
+    second: Floating_MediumCut_50
+  - first:
+      213: -2884464112526929879
+    second: Floating_MediumCut_51
+  - first:
+      213: -7744150461807598271
+    second: Floating_MediumCut_52
+  - first:
+      213: -3015934408254676932
+    second: Floating_MediumCut_53
+  - first:
+      213: -4328592255853166707
+    second: Floating_MediumCut_54
+  - first:
+      213: 7542084091107046063
+    second: Floating_MediumCut_55
+  - first:
+      213: -129902981015728735
+    second: Floating_MediumCut_56
+  - first:
+      213: -2648774638451433435
+    second: Floating_MediumCut_57
+  - first:
+      213: 8243930242883418693
+    second: Floating_MediumCut_58
+  - first:
+      213: -1477390788367059497
+    second: Floating_MediumCut_59
+  - first:
+      213: 8020474151109298414
+    second: Floating_MediumCut_60
+  - first:
+      213: -7139482889692544491
+    second: Floating_MediumCut_61
+  - first:
+      213: -9011787556858484459
+    second: Floating_MediumCut_62
+  - first:
+      213: -3105130381180402866
+    second: Floating_MediumCut_63
+  - first:
+      213: -6303668670699665774
+    second: Floating_MediumCut_64
+  - first:
+      213: 477157674979507374
+    second: Floating_MediumCut_65
+  - first:
+      213: 5797869410298054058
+    second: Floating_MediumCut_66
+  - first:
+      213: 3797218763131168404
+    second: Floating_MediumCut_67
+  - first:
+      213: -7343375910739351611
+    second: Floating_MediumCut_68
+  - first:
+      213: -5931258774286047846
+    second: Floating_MediumCut_69
+  - first:
+      213: 8325137698161552962
+    second: Floating_MediumCut_70
+  - first:
+      213: 1812472768561629966
+    second: Floating_MediumCut_71
+  - first:
+      213: 5152432205614772682
+    second: Floating_MediumCut_72
+  - first:
+      213: 2580404593960311033
+    second: Floating_MediumCut_73
+  - first:
+      213: -3210435786006699833
+    second: Floating_MediumCut_74
+  - first:
+      213: 573224520872533709
+    second: Floating_MediumCut_75
+  - first:
+      213: -8110184140984645394
+    second: Floating_MediumCut_76
+  - first:
+      213: -1002481718450401282
+    second: Floating_MediumCut_77
+  - first:
+      213: 4526007993502910717
+    second: Floating_MediumCut_78
+  - first:
+      213: 480870422655535647
+    second: Floating_MediumCut_79
+  - first:
+      213: -7441781086357384143
+    second: Floating_MediumCut_80
+  - first:
+      213: 8014773929785845881
+    second: Floating_MediumCut_81
+  - first:
+      213: 5292446064355574031
+    second: Floating_MediumCut_82
+  - first:
+      213: 1196804953769502092
+    second: Floating_MediumCut_83
+  - first:
+      213: 7112208953546064494
+    second: Floating_MediumCut_84
+  - first:
+      213: -3146176647225727158
+    second: Floating_MediumCut_85
+  - first:
+      213: -1891466305020360616
+    second: Floating_MediumCut_86
+  - first:
+      213: -8281015790700943882
+    second: Floating_MediumCut_87
+  - first:
+      213: -3931041162532149903
+    second: Floating_MediumCut_88
+  - first:
+      213: 1568684507141625383
+    second: Floating_MediumCut_89
+  - first:
+      213: 5240919008712920355
+    second: Floating_MediumCut_90
+  - first:
+      213: -205364508687266636
+    second: Floating_MediumCut_91
+  - first:
+      213: 6278353639940716385
+    second: Floating_MediumCut_92
+  - first:
+      213: -3438916034484184629
+    second: Floating_MediumCut_93
+  - first:
+      213: -1089887634224565478
+    second: Floating_MediumCut_94
+  - first:
+      213: 5710570310493735527
+    second: Floating_MediumCut_95
+  - first:
+      213: 9051939234613478094
+    second: Floating_MediumCut_96
+  - first:
+      213: 1784239398751252112
+    second: Floating_MediumCut_97
+  - first:
+      213: 5792728256176773465
+    second: Floating_MediumCut_98
+  - first:
+      213: -7134774907071244795
+    second: Floating_MediumCut_99
+  - first:
+      213: -8519891234648693024
+    second: Floating_MediumCut_100
+  - first:
+      213: 8333743293390441317
+    second: Floating_MediumCut_101
+  - first:
+      213: 112387893108905913
+    second: Floating_MediumCut_102
+  - first:
+      213: -5081174896444137184
+    second: Floating_MediumCut_103
+  - first:
+      213: -420570843706024934
+    second: Floating_MediumCut_104
+  - first:
+      213: -8515566501179803108
+    second: Floating_MediumCut_105
+  - first:
+      213: -2503271114131005514
+    second: Floating_MediumCut_106
+  - first:
+      213: 6666461048531303389
+    second: Floating_MediumCut_107
+  - first:
+      213: 2085865359054453542
+    second: Floating_MediumCut_108
+  - first:
+      213: 6326724033513300016
+    second: Floating_MediumCut_109
+  - first:
+      213: 5882114913964855276
+    second: Floating_MediumCut_110
+  - first:
+      213: -7698709099441993698
+    second: Floating_MediumCut_111
+  - first:
+      213: -3888120466855646937
+    second: Floating_MediumCut_112
+  - first:
+      213: -7518854369920273765
+    second: Floating_MediumCut_113
+  - first:
+      213: -515930634555718555
+    second: Floating_MediumCut_114
+  - first:
+      213: 2226830589890983193
+    second: Floating_MediumCut_115
+  - first:
+      213: -3588608076196919142
+    second: Floating_MediumCut_116
+  - first:
+      213: 8226962586485617355
+    second: Floating_MediumCut_117
+  - first:
+      213: 7177238110311107122
+    second: Floating_MediumCut_118
+  - first:
+      213: -8967867868637629108
+    second: Floating_MediumCut_119
+  - first:
+      213: 6521965311521637554
+    second: Floating_MediumCut_120
+  - first:
+      213: 4031045155496969612
+    second: Floating_MediumCut_121
+  - first:
+      213: 126453206996086458
+    second: Floating_MediumCut_122
+  - first:
+      213: -6057742526686230661
+    second: Floating_MediumCut_123
+  - first:
+      213: 6491008100135952590
+    second: Floating_MediumCut_124
+  - first:
+      213: 4253606900055615187
+    second: Floating_MediumCut_125
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floating_MediumCut_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1679
+        width: 258
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037729a2fbc312c90800000000000000
+      internalID: -7196403937810680016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_MediumCut_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1826
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae43cadc68873dd0800000000000000
+      internalID: -2506384666500313430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_MediumCut_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1562
+        width: 1049
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd42f78bc309a590800000000000000
+      internalID: -7662589118300140106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_MediumCut_3
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1063
+        width: 447
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436f2021e5867cb0800000000000000
+      internalID: -4866555145373129909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_MediumCut_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1169
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6158080d30c5d2390800000000000000
+      internalID: -7841510204729424618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_MediumCut_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1138
+        width: 381
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be262e77f1278060800000000000000
+      internalID: 6955565496354090672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_MediumCut_6
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1059
+        width: 1049
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4431fcf8158af5300800000000000000
+      internalID: 243097973159826244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_MediumCut_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 623
+        width: 281
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153b63e7b6d63f120800000000000000
+      internalID: 2446419331038753617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_MediumCut_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 503
+        width: 1561
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1494f873a329d9a40800000000000000
+      internalID: 5376614308888136001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_MediumCut_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 278
+        width: 2013
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897686701c8361180800000000000000
+      internalID: -9145059591625087080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Floating_MediumCut_0: -7196403937810680016
+      Floating_MediumCut_1: -2506384666500313430
+      Floating_MediumCut_2: -7662589118300140106
+      Floating_MediumCut_3: -4866555145373129909
+      Floating_MediumCut_4: -7841510204729424618
+      Floating_MediumCut_5: 6955565496354090672
+      Floating_MediumCut_6: 243097973159826244
+      Floating_MediumCut_7: 2446419331038753617
+      Floating_MediumCut_8: 5376614308888136001
+      Floating_MediumCut_9: -9145059591625087080
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,725 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1700781481573826, "dur":3048, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481576882, "dur":159, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1700781481577095, "dur":21, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1700781481577116, "dur":531, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1700781481577670, "dur":922, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481578592, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481853612, "dur":237, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481853849, "dur":157, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854006, "dur":125, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854131, "dur":20, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854151, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854154, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854165, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854167, "dur":20, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854187, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854188, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854199, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854201, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854207, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854209, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854216, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854218, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854224, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854226, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854232, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854233, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854240, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854241, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854247, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854249, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854255, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854257, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854264, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854267, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854274, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854275, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854283, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854284, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854291, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854338, "dur":4, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481854370, "dur":5595, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1700781481578419, "dur":324, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481578744, "dur":5236, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481583992, "dur":265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1700781481584260, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481587833, "dur":3910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1700781481591885, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1700781481592025, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481592047, "dur":3159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1700781481595274, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481595332, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481596060, "dur":3906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481600061, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1700781481600120, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481600130, "dur":11201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1700781481611433, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481611528, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481614929, "dur":5412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481620580, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481620727, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481620748, "dur":7332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481628163, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481628251, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481628279, "dur":6779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481635149, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481635291, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481635304, "dur":5400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481640822, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481640904, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481640923, "dur":3856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481644846, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481644926, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481644944, "dur":5258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481650298, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481650431, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481650446, "dur":8232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481658773, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481658862, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481658885, "dur":9728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481668695, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481668795, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481668809, "dur":6011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481674906, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.ScriptableBuildPipeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481675229, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481675252, "dur":6991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.ScriptableBuildPipeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481682334, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481682608, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481682629, "dur":6492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481689201, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.Common.Runtime.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1700781481689525, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481689550, "dur":14435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.Common.Runtime.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1700781481704266, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Runtime.Serialization.Formatters.Soap.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481704369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481704386, "dur":14863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Runtime.Serialization.Formatters.Soap.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481719429, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Configuration.Install.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481719506, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481719521, "dur":11327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Configuration.Install.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481730928, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Mono.Messaging.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481731002, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481731023, "dur":20913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Mono.Messaging.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700781481752020, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1700781481752099, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700781481752117, "dur":100702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1700781481852913, "dur":696, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700781481578124, "dur":550, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700781481578674, "dur":5315, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700781481583991, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1700781481584337, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700781481684860, "dur":2686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1700781481687671, "dur":571, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700781481688248, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700781481688261, "dur":13480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700781481701806, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.ServiceModel.Activation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700781481701899, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700781481701913, "dur":17318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.ServiceModel.Activation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700781481719323, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700781481719409, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700781481719435, "dur":12903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700781481732425, "dur":850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/AstarPathfindingProject.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1700781481733286, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700781481733308, "dur":20190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/AstarPathfindingProject.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1700781481753597, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1700781481753696, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700781481753713, "dur":36356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1700781481790181, "dur":63426, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481578220, "dur":466, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481578686, "dur":5287, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481583990, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1700781481584249, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481605863, "dur":5528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1700781481611485, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481611784, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481614918, "dur":5400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481620404, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481620488, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481620592, "dur":6210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481626955, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481627044, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481627119, "dur":6204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481633420, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481633497, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481633518, "dur":3526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481637187, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481637302, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481637314, "dur":5070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481642463, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481642547, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481642573, "dur":6416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481649078, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481649168, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481649193, "dur":5741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481655065, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481655166, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481655190, "dur":6912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481662193, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481662280, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481662310, "dur":8392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481670798, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481670879, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481670890, "dur":5426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481676402, "dur":981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Mathematics.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1700781481677398, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481677426, "dur":6901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Mathematics.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1700781481684435, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481684537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481684565, "dur":13521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481698172, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Windows.Forms.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481698252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481698267, "dur":17400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Windows.Forms.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481715749, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481715844, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481715858, "dur":12071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481728016, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Mono.WebBrowser.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481728084, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481728101, "dur":11856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Mono.WebBrowser.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700781481740046, "dur":879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/StreamingAssets/aa/settings.json" }}
+,{ "pid":12345, "tid":3, "ts":1700781481740935, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481751658, "dur":3041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/StreamingAssets/aa/settings.json" }}
+,{ "pid":12345, "tid":3, "ts":1700781481754769, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/level3" }}
+,{ "pid":12345, "tid":3, "ts":1700781481754843, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700781481754858, "dur":54906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/level3" }}
+,{ "pid":12345, "tid":3, "ts":1700781481809852, "dur":43776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481578085, "dur":569, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481578654, "dur":5321, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481583992, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1700781481584204, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481588287, "dur":3398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1700781481591756, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1700781481591834, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481592829, "dur":2175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1700781481595079, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1700781481595156, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481595167, "dur":2847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1700781481598110, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481598218, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481598413, "dur":19055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481617543, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481617609, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481617622, "dur":6144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481623842, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481623914, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481623924, "dur":7468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481631509, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481631586, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481631604, "dur":5438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481637172, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481637278, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481637310, "dur":6241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481643607, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481643730, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481643758, "dur":6757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481650567, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481650628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481650643, "dur":5128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481655878, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481655955, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481655973, "dur":7741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481663792, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481663867, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481663883, "dur":9771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481673719, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.ScriptableBuildPipeline.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1700781481673985, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481674001, "dur":7418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.ScriptableBuildPipeline.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1700781481681504, "dur":332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1700781481681911, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481681936, "dur":6341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1700781481688359, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.IK.Runtime.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1700781481688708, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481688735, "dur":12617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.IK.Runtime.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1700781481701451, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.ServiceModel.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481701524, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481701538, "dur":14436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.ServiceModel.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481716037, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Drawing.Design.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481716092, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481716104, "dur":8742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Drawing.Design.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700781481724925, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Newtonsoft.Json.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1700781481724985, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481725007, "dur":14941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Newtonsoft.Json.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1700781481740037, "dur":371, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/StreamingAssets/aa/AddressablesLink/link.xml" }}
+,{ "pid":12345, "tid":4, "ts":1700781481740415, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481751868, "dur":5776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/StreamingAssets/aa/AddressablesLink/link.xml" }}
+,{ "pid":12345, "tid":4, "ts":1700781481757740, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1700781481757803, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700781481757821, "dur":58310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1700781481816217, "dur":37423, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481578021, "dur":606, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481578634, "dur":5336, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481583991, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1700781481583997, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481584215, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1700781481584222, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481654807, "dur":2718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1700781481657536, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481657675, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481657694, "dur":7729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481665516, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481665617, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481665639, "dur":9516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481675258, "dur":432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.ResourceManager.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1700781481675698, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481675717, "dur":7304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.ResourceManager.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1700781481683173, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481683264, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481683288, "dur":10033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481693414, "dur":564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481693992, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481694014, "dur":10244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481704341, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481704462, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481704477, "dur":12775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481717332, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481717400, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481717411, "dur":10415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481727930, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/NetMQ.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481728064, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481728076, "dur":12158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/NetMQ.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700781481740328, "dur":1271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/StreamingAssets/aa/catalog.json" }}
+,{ "pid":12345, "tid":5, "ts":1700781481741618, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481747309, "dur":7575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/StreamingAssets/aa/catalog.json" }}
+,{ "pid":12345, "tid":5, "ts":1700781481755017, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/level2" }}
+,{ "pid":12345, "tid":5, "ts":1700781481755163, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700781481755177, "dur":55461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/level2" }}
+,{ "pid":12345, "tid":5, "ts":1700781481810745, "dur":42884, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481578392, "dur":329, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481578722, "dur":5256, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481583991, "dur":266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1700781481584260, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481606774, "dur":4144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1700781481611023, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1700781481611125, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481614862, "dur":13620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1700781481628600, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481628686, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481628705, "dur":6769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481635574, "dur":811, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481636463, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481636488, "dur":4988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481641600, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481641690, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481641706, "dur":7339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481649134, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481649234, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481649254, "dur":5842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481655194, "dur":844, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481656055, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481656085, "dur":8680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481664851, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481664940, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481664962, "dur":7196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481672267, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481672341, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481672354, "dur":5894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481678321, "dur":883, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Localization.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1700781481679215, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481679234, "dur":6402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Localization.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1700781481685733, "dur":488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481686232, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481686249, "dur":11457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481697793, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Xaml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481697887, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481697905, "dur":10839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Xaml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481708891, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481709110, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481709141, "dur":8060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481717262, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Design.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481717328, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481717346, "dur":11858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Design.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481729318, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Mono.Posix.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481729414, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481729435, "dur":12501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Mono.Posix.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700781481742154, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1700781481742247, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481742268, "dur":10603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1700781481753112, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1700781481753377, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700781481753404, "dur":100045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1700781481853539, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":6, "ts":1700781481853544, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481578558, "dur":223, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481578782, "dur":5223, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481584006, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1700781481584262, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481595120, "dur":2902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1700781481598121, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481598219, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481598310, "dur":7806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481606226, "dur":2454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game.exe" }}
+,{ "pid":12345, "tid":7, "ts":1700781481608706, "dur":11, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481608740, "dur":5542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game.exe" }}
+,{ "pid":12345, "tid":7, "ts":1700781481614361, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481614458, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481615183, "dur":8452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481623746, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481623832, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481623857, "dur":6876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481630845, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481630971, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481630985, "dur":6278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481637367, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481637466, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481637481, "dur":6694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481644295, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481644385, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481644416, "dur":5657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481650162, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481650249, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481650272, "dur":5546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481655906, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481655983, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481655995, "dur":7949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481664035, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481664127, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481664147, "dur":8717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481672939, "dur":433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481673375, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481673384, "dur":7202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481680674, "dur":325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.InternalAPIEngineBridge.013.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1700781481681004, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481681023, "dur":7261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.InternalAPIEngineBridge.013.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1700781481688373, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481688715, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481688735, "dur":13824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481702645, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481702726, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481702756, "dur":12260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481715162, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.IdentityModel.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481715275, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481715299, "dur":8565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.IdentityModel.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481723967, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Novell.Directory.Ldap.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481724054, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481724077, "dur":12055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Novell.Directory.Ldap.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481736223, "dur":497, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481736728, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481736746, "dur":17824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700781481754651, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1700781481754716, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700781481754728, "dur":55915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1700781481810739, "dur":42892, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481578668, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481578668, "dur":5309, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481583993, "dur":245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1700781481584242, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481610632, "dur":4355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1700781481615074, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481615153, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481615301, "dur":8468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481623835, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481623911, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481623921, "dur":6804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481630853, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481630938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481630964, "dur":6285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481637455, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481637560, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481637574, "dur":6783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481644453, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481644530, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481644544, "dur":7848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481652472, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481652534, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481652555, "dur":7440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481660109, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481660191, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481660219, "dur":12795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481673086, "dur":538, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1700781481673655, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481673671, "dur":9101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1700781481682935, "dur":969, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1700781481683911, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481683927, "dur":11084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1700781481695095, "dur":479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.Animation.Runtime.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1700781481695584, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481695613, "dur":10564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.Animation.Runtime.pdb" }}
+,{ "pid":12345, "tid":8, "ts":1700781481706258, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481706368, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481706391, "dur":13659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481720127, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481720192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481720209, "dur":11148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481731438, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/AsyncIO.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481731569, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481731578, "dur":15758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/AsyncIO.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700781481747421, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1700781481747494, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481747512, "dur":8963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1700781481756544, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1700781481756607, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700781481756618, "dur":60541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1700781481817210, "dur":36411, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481578769, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481578769, "dur":5216, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481584012, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1700781481584247, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481632275, "dur":2793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1700781481635168, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481635271, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481635299, "dur":6169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481641552, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481641661, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481641683, "dur":7386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481649161, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481649252, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481649264, "dur":5725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481655081, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481655199, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481655211, "dur":8352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481663777, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481663854, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481663870, "dur":8129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481672232, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481672328, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481672351, "dur":5948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481678385, "dur":604, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Localization.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481679002, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481679026, "dur":5846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Localization.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481684985, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481685059, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481685070, "dur":12571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481697784, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481697894, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481697910, "dur":16049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481714056, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481714149, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481714179, "dur":9044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481723349, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Pathfinding.Ionic.Zip.Reduced.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481723521, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481723548, "dur":12794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Pathfinding.Ionic.Zip.Reduced.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481736437, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Accessibility.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481736607, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481736642, "dur":17674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Accessibility.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700781481754395, "dur":2026, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1700781481756432, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700781481756453, "dur":59154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1700781481815708, "dur":38116, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481578880, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481578880, "dur":5129, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481584010, "dur":266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1700781481584279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481659086, "dur":4320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1700781481663536, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481663630, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481663653, "dur":7044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481670787, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481670860, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481670885, "dur":5339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481676332, "dur":501, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481676842, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481676864, "dur":6072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481683002, "dur":1958, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481684965, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481684979, "dur":14405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481699451, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Web.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481699524, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481699544, "dur":16425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Web.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481716045, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481716100, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481716109, "dur":12043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481728260, "dur":442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481728718, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481728745, "dur":12924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700781481741764, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1700781481741861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481742959, "dur":4786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1700781481747838, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1700781481747910, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700781481747928, "dur":34728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1700781481782740, "dur":70864, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481578999, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481579000, "dur":4983, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481583993, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1700781481584210, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481656729, "dur":4316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1700781481661141, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481661261, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481661286, "dur":7335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481668693, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481668766, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481668789, "dur":4795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481673653, "dur":757, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481674419, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481674436, "dur":8018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481682538, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481682667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481682678, "dur":12340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481695096, "dur":792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481695898, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481695915, "dur":9363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481705364, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Runtime.DurableInstancing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481705451, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481705470, "dur":11736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Runtime.DurableInstancing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481717288, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481717365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481717381, "dur":13971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481731437, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Mono.Data.Sqlite.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481731504, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481731519, "dur":16585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Mono.Data.Sqlite.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700781481748186, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":11, "ts":1700781481748253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481748267, "dur":19391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":11, "ts":1700781481767757, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1700781481767816, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700781481767835, "dur":48281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1700781481816201, "dur":37442, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700781481579104, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700781481579105, "dur":4888, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700781481583994, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1700781481584289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700781481681021, "dur":3247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1700781481684430, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700781481684544, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700781481684562, "dur":12558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700781481697217, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700781481697298, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700781481697323, "dur":9916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700781481707360, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700781481707436, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700781481707461, "dur":9266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700781481716802, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.DirectoryServices.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700781481716892, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700781481716912, "dur":10905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.DirectoryServices.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700781481727932, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700781481728034, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700781481728057, "dur":24102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700781481752255, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1700781481752396, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700781481752411, "dur":23856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1700781481776340, "dur":303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1700781481776777, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700781481776796, "dur":39957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1700781481816808, "dur":36811, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700781481579149, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700781481579149, "dur":4850, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700781481584008, "dur":284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1700781481584297, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700781481682182, "dur":2912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1700781481685168, "dur":443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Addressables.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1700781481685621, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700781481685647, "dur":13147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Addressables.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1700781481698888, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Web.Services.dll" }}
+,{ "pid":12345, "tid":13, "ts":1700781481698996, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700781481699016, "dur":13533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Web.Services.dll" }}
+,{ "pid":12345, "tid":13, "ts":1700781481712645, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Messaging.dll" }}
+,{ "pid":12345, "tid":13, "ts":1700781481712782, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700781481712808, "dur":9421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Messaging.dll" }}
+,{ "pid":12345, "tid":13, "ts":1700781481722325, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.ComponentModel.DataAnnotations.dll" }}
+,{ "pid":12345, "tid":13, "ts":1700781481722411, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700781481722433, "dur":10028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.ComponentModel.DataAnnotations.dll" }}
+,{ "pid":12345, "tid":13, "ts":1700781481732548, "dur":883, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/AstarPathfindingProject.dll" }}
+,{ "pid":12345, "tid":13, "ts":1700781481733440, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700781481733456, "dur":20268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/AstarPathfindingProject.dll" }}
+,{ "pid":12345, "tid":13, "ts":1700781481753848, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1700781481753969, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700781481753984, "dur":52553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1700781481806640, "dur":46962, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481579208, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481579208, "dur":4831, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481584040, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1700781481584246, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481608785, "dur":4189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1700781481613132, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481613236, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481615165, "dur":8452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481623747, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481623856, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481623866, "dur":4980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481628957, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481629066, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481629081, "dur":6067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481635234, "dur":674, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1700781481635921, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481635945, "dur":6890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1700781481642941, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481643036, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481643056, "dur":6496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481649651, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481649727, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481649746, "dur":6035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481655881, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481655955, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481655975, "dur":8772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481664923, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481665080, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481665171, "dur":7634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481672875, "dur":401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1700781481673284, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481673305, "dur":7529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1700781481681029, "dur":289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.InternalAPIEngineBridge.013.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481681325, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481681338, "dur":6332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.InternalAPIEngineBridge.013.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481687762, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.PixelPerfect.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1700781481688077, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481688095, "dur":13196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.PixelPerfect.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1700781481701383, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481701459, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481701479, "dur":11889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481713475, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481713667, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481713690, "dur":9381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481723181, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481723345, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481723373, "dur":11038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700781481734486, "dur":382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1700781481734877, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481734897, "dur":19397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1700781481754472, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1700781481754579, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700781481754604, "dur":44466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1700781481799158, "dur":54443, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481579276, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481579276, "dur":4744, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481584021, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1700781481584263, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481595164, "dur":2864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1700781481598133, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481598297, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481598309, "dur":72607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481671005, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481671125, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481671138, "dur":6424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481677655, "dur":1787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481679450, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481679470, "dur":8196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481687763, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481688084, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481688095, "dur":13248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481701404, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481701470, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481701480, "dur":14133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481715700, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481715775, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481715791, "dur":9767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481725646, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481725738, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481725754, "dur":12439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700781481738298, "dur":16691, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Plugins/x86_64/lib_burst_generated.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1700781481754993, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481762291, "dur":3422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Plugins/x86_64/lib_burst_generated.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1700781481765785, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":15, "ts":1700781481765860, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700781481765884, "dur":50496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":15, "ts":1700781481816449, "dur":37177, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700781481579343, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700781481579343, "dur":4675, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700781481584019, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1700781481584322, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700781481683729, "dur":2852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1700781481686669, "dur":451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.SpriteShape.Runtime.pdb" }}
+,{ "pid":12345, "tid":16, "ts":1700781481687201, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700781481687229, "dur":12535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Unity.2D.SpriteShape.Runtime.pdb" }}
+,{ "pid":12345, "tid":16, "ts":1700781481699845, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Web.ApplicationServices.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700781481700092, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700781481700117, "dur":14456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.Web.ApplicationServices.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700781481714739, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.IdentityModel.Selectors.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700781481714853, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700781481714881, "dur":10646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/System.IdentityModel.Selectors.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700781481725603, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700781481725697, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700781481725719, "dur":13676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700781481739520, "dur":35508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700781481775040, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700781481776166, "dur":9578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lenovoo/OneDrive/Pulpit/Wszystko/MGR/new/Build_test/MGR_Game_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700781481785819, "dur":67786, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700781481864466, "dur":4346, "ph":"X", "name": "ProfilerWriteOutput" }
+,
