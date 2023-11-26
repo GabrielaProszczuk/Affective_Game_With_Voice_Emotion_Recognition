@@ -5,3 +5,6 @@ pillow
 keras2onnx
 onnxruntime
 h5py
+librosa
+zmq
+soundfile
