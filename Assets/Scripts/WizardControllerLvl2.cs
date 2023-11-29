@@ -71,11 +71,6 @@ public class WizardControllerLvl2 : MonoBehaviour
                 }
 
 
-                /*  prediction = PlayerPrefs.GetString("emotionLevel2");*/
-
-
-
-                //  emotionSlider.GetComponent<Slider>().value = tmp_pred;
                 if (PlayerPrefs.GetInt("wizardTouched") == 1)
                 {
                     if (value >= 50)
