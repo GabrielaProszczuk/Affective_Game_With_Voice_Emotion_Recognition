@@ -26,12 +26,6 @@ public class NextLevelSign : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            /*            if (collision.gameObject.GetComponent<PlayerController>().gathered == 5)
-                        {
-                            Canvas.SetActive(true);
-                            Fog.SetActive(true);
-                        }*/
-
             Canvas.SetActive(true);
             Fog.SetActive(true);
         }
