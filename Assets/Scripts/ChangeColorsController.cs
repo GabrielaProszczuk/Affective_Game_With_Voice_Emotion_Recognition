@@ -94,17 +94,6 @@ public class ChangeColorsController : MonoBehaviour
                     PlayerPrefs.SetString("emotionLevel3", "");
                 }
 
-                
-             //   Debug.Log("new pred lvl3: " + prediction);
-         /*       if (prediction != "")
-                {
-                    value = Int32.Parse(prediction);
-                    emotionSlider.GetComponent<Slider>().value = value;
-                }
-                else
-                {
-                    emotionSlider.GetComponent<Slider>().value = 0;
-                }*/
                 if (PlayerPrefs.GetInt("flowerTouched") == 1 && prediction != "")
                 {
 
