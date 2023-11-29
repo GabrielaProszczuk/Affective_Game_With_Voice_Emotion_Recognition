@@ -95,13 +95,6 @@ public class MonsterController : MonoBehaviour
                     PlayerPrefs.SetInt("monsterTouched", 1);
                     monster.GetComponent<Renderer>().material.color = new Color(5, 2, 2);
 
-                    // Destroy(monster);
-
-                    /*get Color value from voice and python*/
-
-
-                    //emotionSlider.GetComponent<Slider>().value = value;
-
 
                     if (emotionSlider.GetComponent<Slider>().value >= 50)
                     {
