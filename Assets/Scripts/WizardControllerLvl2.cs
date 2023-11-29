@@ -36,13 +36,6 @@ public class WizardControllerLvl2 : MonoBehaviour
         {
             if (PlayerPrefs.GetInt("AI") == 1)
             {
-                /*    if (PlayerPrefs.GetInt("clean") == 1)
-                    {
-
-                        Debug.Log("should be clear");
-                        emotionSlider.GetComponent<Slider>().value = 0;
-                        value = 0;
-                    }*/
 
                 prediction = PlayerPrefs.GetString("emotionLevel2");
 
