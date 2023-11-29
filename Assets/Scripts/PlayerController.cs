@@ -67,10 +67,7 @@ public class PlayerController : MonoBehaviour
         }
         moveHorizontal = Input.GetAxisRaw("Horizontal");
         moveVertical = Input.GetAxisRaw("Vertical");
-/*        GetComponent<Animator>().SetBool("idle_right", true);
-        GetComponent<Animator>().SetBool("idle_left", false);
-        GetComponent<Animator>().SetBool("walk_left", false);
-        GetComponent<Animator>().SetBool("walk_right", false);*/
+
         if(lives == 0)
         {
             StartCoroutine(waitBeforeNewTry(1));
@@ -175,13 +172,6 @@ public class PlayerController : MonoBehaviour
             PlayerPrefs.SetInt("wizardCatched", 0);
         }
 
-   /*     if (collision.gameObject.tag == "flowerLVL3" && PlayerPrefs.GetInt("flowerGathered") == 1)
-        {
-            lives = lives - 1;
-            Debug.Log("hazard!");
-            PlayerPrefs.SetInt("canDie", 0);
-            StartCoroutine(waitBeforeNewTry(1));
-        }*/
 
         if (((collision.gameObject.tag == "monsterLvl1" || collision.gameObject.tag == "EnemyLocal_lvl1") && PlayerPrefs.GetInt("showPlatform") == 0) && PlayerPrefs.GetInt("canDie") == 1)
         {
